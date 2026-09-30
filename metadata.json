@@ -1,0 +1,6 @@
+{
+  "name": "Hệ thức lượng trong tam giác - Mô phỏng 3D",
+  "description": "Mô phỏng 3D giáo dục tương tác Toán 10: Định lý cosin, định lý sin, các công thức diện tích và bài toán thực tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
